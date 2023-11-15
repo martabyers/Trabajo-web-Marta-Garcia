@@ -1,0 +1,38 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: rgb(92, 92, 214);
+    font-size: 36px;
+}
+
+h2 {
+    color: rgb(245, 157, 172);
+    font-size: 28px;
+}
+
+img {
+    width: 150px;
+}
+
+p {
+    text-align: left;
+    font-size: 22px;
+}
+
+footer {
+    text-align: center;
+    font-size: 17px;
+}
+
+a {
+    font-size: 20px;
+    color: rgb(13, 206, 93);
+}
+
+a:hover {
+    background-color: rgb(4, 80, 8);
+    color: white;
+    text-decoration: none;
+}
